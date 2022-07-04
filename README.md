@@ -23,5 +23,6 @@
 
 
 ## Kann:
-#### Auch für andere Cryptowährungen funktionieren. 
+#### Es kann auch für andere Cryptowährungen funktionieren. 
 #### Es kann auch noch eine Meldung zum Verkaufen oder Nicht Verkaufen Schreiben.
+#### Es kann die ausgabe auch noch in Franken umrechnen.
