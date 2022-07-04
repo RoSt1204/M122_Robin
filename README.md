@@ -13,6 +13,7 @@
 ## Setup
 #### Wir brauchen dafür den Mailserver der uns die möglichkeit gibt mails zu senden.
 #### Wir brauchen den Code für die Automationen. 
+#### Quelle der Information(API) https://api.binance.com/api/v1/ticker/price?symbol=BTCUSDT.
 
 
 ## Muss:
