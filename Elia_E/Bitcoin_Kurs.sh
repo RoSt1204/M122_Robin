@@ -1,3 +1,17 @@
+#==================Header==================
+#Syntax: Bash
+
+#Beschreibung: Liest den Bitcoin Kurs ein und schickt bei einem gewissen Wert eine E-Mail an mich.
+
+#Autor: Elia El-Alam
+
+#Erstellungsdatum: 1.07.2022
+
+#Aenderung: 11.07.2022
+
+#==================Header==================
+
+
 #!/bin/bash
 
 BitcoinKurs=`echo "$(curl -s https://api.binance.com/api/v1/ticker/price?symbol=BTCUSDT | jq .price | xargs)"` #findet den Bitcoin Preis
