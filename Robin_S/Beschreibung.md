@@ -16,3 +16,6 @@
 ### Dann wird der Stand von Bitcoin überprüft und je nach stand eine E-Mail versendet.
 ### Wenn der Bitcoin unter 31000 oder über 35000 ist wird das Mail  versendet.
 ### Wenn es Dazwischen ist dann wird garnichts geschickt und im Terminal wird "Nothing" ausgegeben.
+
+
+# UML
