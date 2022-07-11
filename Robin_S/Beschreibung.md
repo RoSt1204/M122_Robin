@@ -8,7 +8,8 @@
 ## Erste schritte 
 ### Ich musste als erstes den Mailclient(ssmtp) Herunterladen und Configurieren.
 ### Ich musste auch noch mehrere Tools herunterladen. 
-### Dann habe ich ein sh und ein Crontable erstellt. In das sh kamm der Code und in den Crontable habe ich geschrieben das es immer um eins jeden tag das Mail schickt.
+### Dann habe ich ein sh und ein Crontab erstellt. In das sh kamm der Code und in den Crontab habe ich geschrieben das es immer um eins das Mail schickt.
+### Danach habe ich die API für den Bitcoin gesucht und den Link in das Programm eingefügt
 
 # Was macht das Programm
 ### In dem Script wird immer um 1 uhr in der Nacht das Script durch einen Crontab ausgeführt.
